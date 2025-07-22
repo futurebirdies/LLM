@@ -1,1 +1,4 @@
-
+netlify/
+ └── functions/
+      ├── hello.js
+      └── chat.js
